@@ -1,16 +1,16 @@
 FactorialFusion
 
-## 📌 Description
+##  Description
 
 FactorialFusion is an Assembly project that calculates the sum of:  the factorial of a given number and the minimum value from a vector
 
-## ⚙️ Features
+##  Features
 
 Computes the factorial of an integer
 Finds the minimum element in an array
 Outputs the sum of the two results
 
-🛠 How to Run
+##  How to Run
 
 Compile the .asm file with an assembler (NASM, MASM, etc.)
 
