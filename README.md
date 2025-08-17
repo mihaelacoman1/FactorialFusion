@@ -14,6 +14,7 @@ Outputs the sum of the two results
 
 Compile the .asm file with an assembler (NASM, MASM, etc.)
 
+```bash
 nasm -f elf64 bazeleTehnologieiInformatiei.asm -o exe.o
 ld exe.o -o factorial_fusion
 ./factorial_fusion
