@@ -3,8 +3,8 @@ FactorialFusion
 ## 📌 Description
 
 FactorialFusion is an Assembly project that calculates the sum of:
--the factorial of a given number
--the minimum value from a vector
+ - the factorial of a given number
+ - the minimum value from a vector
 
 ⚙️ Features
 
